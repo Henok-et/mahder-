@@ -14,7 +14,7 @@ window.addEventListener("DOMContentLoaded", function () {
 });
 
 
-
+/** remove hovered class when mouseout on hoverElements */
 /**
  * add event on multiple elements
  */
